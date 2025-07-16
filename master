@@ -1,4 +1,4 @@
-pblic class One{
+public class One{
 public static void main(String[] arge){
 System.out.println("Done");
 System.out.println("Done");
